@@ -16,10 +16,15 @@ The macro automatically detects sheet metal parts, creates missing flat patterns
 ### Export Progress
 ![Export Progress](Progress.png)
 
-Download the latest version from [Releases](../../releases).
+## Download
 
-- [Polish version – Installation and User Guide](PL/)
-- [English version – Installation and User Guide](EN/)
+Download the ZIP package for your language from [Releases](../../releases).
+
+Each package includes:
+- The VBA macro (`.ivb`)
+- The user instructions (`.txt`)
+
+Choose the Polish or English version.
 
 ## Requirements
 
