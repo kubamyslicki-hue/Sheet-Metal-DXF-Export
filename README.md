@@ -16,10 +16,10 @@ The macro automatically detects sheet metal parts, creates missing flat patterns
 ### Export Progress
 ![Export Progress](Progress.png)
 
-## Downloads
+Download the latest version from [Releases](../../releases).
 
-- **Polish version:** [Eksport blach do DXF – PL](../../releases)
-- **English version:** [Sheet Metal DXF Export – EN](../../releases)
+- [Polish version – Installation and User Guide](PL/)
+- [English version – Installation and User Guide](EN/)
 
 ## Requirements
 
