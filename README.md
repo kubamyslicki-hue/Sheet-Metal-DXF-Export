@@ -10,7 +10,11 @@ The macro automatically detects sheet metal parts, creates missing flat patterns
 
 ## Screenshots
 
-See the export settings and progress window below.
+### Export Settings
+![Export Settings](Setting.png)
+
+### Export Progress
+![Export Progress](Progress.png)
 
 ## Downloads
 
